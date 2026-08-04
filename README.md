@@ -1,4 +1,4 @@
-## Hi there! I'm an Electrical Engineering major at UC Irvine!
+## Hi there! I'm a third year Electrical Engineering major at UC Irvine!
 
 I'm interested in both **electrical hardware/circuit design** and **embedded systems**, with experience in PCB design and microcontroller programming. I'm also pursuing a minor in biomedical engineering, with the goal of entering the medical device industry as an electrical engineer. Here's a link to my [portfolio](https://sites.google.com/uci.edu/avportfolio/home) featuring some engineering projects I've worked on so far!
 
